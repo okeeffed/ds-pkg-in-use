@@ -1411,6 +1411,24 @@
   dependencies:
     mkdirp "^1.0.4"
 
+"@okeeffed/ds-pkg-blog-post@^0.1.0":
+  version "0.1.0"
+  resolved "https://npm.pkg.github.com/download/@okeeffed/ds-pkg-blog-post/0.1.0/07c03646f73e2cc1375705fbdcf4aeb18dc4cd87550aad02d5abd393b4d28132#59d8771ad89ebc7cf41d77ce09a469f53c55a768"
+  integrity sha512-1BSvVl9wBe0TJTBdXwju1+4mCz2y9ZLRaZaGqMRLHU/5z0cRjI9JF62d676gXG6/opMme8orYKueP7tKce1ZfQ==
+  dependencies:
+    "@testing-library/jest-dom" "^5.11.4"
+    "@testing-library/react" "^11.1.0"
+    "@testing-library/user-event" "^12.1.10"
+    "@types/jest" "^26.0.15"
+    "@types/node" "^12.0.0"
+    "@types/react" "^16.9.53"
+    "@types/react-dom" "^16.9.8"
+    react "^17.0.1"
+    react-dom "^17.0.1"
+    react-scripts "4.0.1"
+    typescript "^4.0.3"
+    web-vitals "^0.2.4"
+
 "@pmmmwh/react-refresh-webpack-plugin@0.4.2":
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.2.tgz#1f9741e0bde9790a0e13272082ed7272a083620d"
